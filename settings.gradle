@@ -1,1 +1,2 @@
-include ':app', ':mjpeg-view'
+rootProject.name = 'ipcam-view'
+include ':mjpeg-view'
