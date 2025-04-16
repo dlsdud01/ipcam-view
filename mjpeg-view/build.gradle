@@ -1,3 +1,5 @@
+def kotlin_version = '1.9.22'
+
 plugins {
     id 'com.android.library'
     id 'maven-publish'
